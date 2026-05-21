@@ -24,5 +24,5 @@ This structure ensures that the data is fed cleanly into the model while enforci
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR-USERNAME/langchain-lcel-summarizer.git](https://github.com/YOUR-USERNAME/langchain-lcel-summarizer.git)
-   cd langchain-lcel-summarizer
+   git clone https://github.com/juliaDiasOliv/langchain-lcel-summarizer.git
+cd langchain-lcel-summarizer
